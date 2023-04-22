@@ -1,1 +1,10 @@
 # cs230
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?  The Gaming Room is a company responsible for creating the application Draw it or Lose it. The application is a game which is a form of pictionary where different teams attempt to guess what image is being rendered during gameplay. The first to guess correctly wins the game. The company had reached out to us, chada tech, to make this game available on multiple platforms since in its current iteration it was only available on android. The gaming room sought to have their application available on the web, which in turn would make it accessible to differeing operating platforms.
+
+What did you do particularly well in developing this documentation? I believe I correctly identified the pros of using a linux based server as compared with other servers, and also correctly and accuratley explained the linux systems architecture. 
+
+What about the process of working through a design document did you find helpful when developing the code? Working through the design document allowed me to fully understand what the gaming room was looking for in an end product. One aspect of the design document I felt was particurly helpful was the evaluation portion. It aided me in recommending which system the gaming room should use. 
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? I would be more detailed during the evaluation section.
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing? It is important to consider the users needs when designing so that a developer can create an end result that meets the requirements the end user has set. The project is based solely on what the end user is after, if there idea changes so does the code that the developer is responsibnle for developing. 
